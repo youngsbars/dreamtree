@@ -1,0 +1,30 @@
+ndex.html
+<html>
+
+<head>
+<title>My Webpage</title>
+<head>
+
+<body>
+<h1>Big</h1>
+this is <strong>bold</strong>
+this is <em>italic</em>
+<p>
+<p>
+this is <strong>bold</strong>
+this is <em>italic</em>
+<p>
+<p>
+<a href="htttp://google.com">google.com<a/a>
+<div></div>
+<span></span>
+<ul>
+<li>item 1</li>
+<li>item 2</li>
+</ul>
+<ol>
+li>item 1</li>
+<li>item 2</li>
+</ol>
+
+</body>
