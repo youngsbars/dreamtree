@@ -1,3 +1,4 @@
+
 Index.html
 <html>
 
@@ -5,8 +6,7 @@ Index.html
 <title>My Webpage</title>
 <head>
 
-<body>
-<h1>Big</h1>
+<body><h1>Big</h1>
 this is <strong>bold</strong>
 this is <em>italic</em>
 <p>
