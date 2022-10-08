@@ -12,7 +12,7 @@ body {
  margin-right:10%;
 }
 
-#clear { clear: both;
+.clear { clear: both;
 }
 
 .white, .black{
