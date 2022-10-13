@@ -6,6 +6,7 @@ body {
  background-image:url("http://3.bp.blogspot.com/-aNRb0w9Uu2E/Uk0w1v9lXjI/AAAAAAAAHrM/RipxfZqlQQ4/s1600/Texture-Backgrounds-Wallpaper-HD.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  position: relative;
 }
 
 .row{
@@ -66,6 +67,5 @@ img {
  margin-left: 5px;
  margin-top:10px;
  }
-
 
 
