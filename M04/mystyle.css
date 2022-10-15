@@ -39,6 +39,6 @@
 				background-color: #DB7093}
            #feature {
             background-image: url("images/pinkflowericon.jpeg");
-            background-size: contain;
+            background-size: 1em;
             background-position: right;
             background-repeat:no-repeat;}
