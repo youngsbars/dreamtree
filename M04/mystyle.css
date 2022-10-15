@@ -38,8 +38,7 @@
             .column3 {
 				background-color: #DB7093}
            #feature {
-	    box-sizing: border-box;   
             background-image: url("images/pinkflowericon.jpeg");
-            background-size:contain;
+            background-size: contain;
             background-position: right;
             background-repeat:no-repeat;}
