@@ -1,4 +1,4 @@
-                          * {
+* {
 				font-family: Arial, Verdana, sans-serif;
 				color: #665544;
 				text-align: center;}
@@ -18,10 +18,28 @@
 			li {
 				display: inline;
 				padding: 0.5em;}
-			#nav, #footer {
-				background-color: #efefef;
+            li a {
+               color: #fff;
+                 }
+            #footer p {
+                color: #fff;
+                      }
+            #nav, #footer {
+				background-color: #BA55D3;
 				padding: 0.5em 0;}
 			#feature, .article {
 				height: 10em;
 				margin-bottom: 1em;
-				background-color: #efefef;}
+				background-color: #8CC63E}
+            .column1 {
+				background-color: #FF69B4}
+            .column2 {
+				background-color: #C71585}
+            .column3 {
+				background-color: #DB7093}
+           #feature {
+            background-color: #8CC63E;
+            background-image: url("images/pink flower icon.jpeg");
+            background-size:contain;
+            background-position: right;
+            background-repeat:no-repeat;}
